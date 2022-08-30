@@ -7,4 +7,9 @@
 
 <p> If you want to make a similar system for your organziation, please keep in touch. </p>
 
-<img src="https://github.com/waleedjmm/Text-OCR/blob/main/PDF.gif" />
+<br />
+
+
+## PROJECT DEMO:
+
+<img src="https://github.com/waleedjmm/Facio-Employee-Recognition-System/blob/main/Employee_Recognition.gif" />
