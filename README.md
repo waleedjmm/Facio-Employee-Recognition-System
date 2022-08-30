@@ -6,3 +6,5 @@
 <p> This application is made using Django web framework of Python. </p>
 
 <p> If you want to make a similar system for your organziation, please keep in touch. </p>
+
+<img src="https://github.com/waleedjmm/Text-OCR/blob/main/PDF.gif" />
